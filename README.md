@@ -1,4 +1,4 @@
-Agentic AI Context Management Demo 🤖
+**Agentic AI Context Management Demo** 🤖
 Welcome to my Agentic AI SDK demo showcasing local context vs LLM context using Python and the Gemini API! 💻 This project demonstrates how to manage private user data (local context) and feed dynamic responses to the AI (LLM context) for smart, efficient agents. 🚀
 🎯 What’s This About?
 This demo shows how to:
